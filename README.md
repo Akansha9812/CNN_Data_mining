@@ -1,7 +1,7 @@
 # CNN_Data_mining
 
 !pip install kaggle
-#This command installs the Kaggle API client library in your Python environment. 
+# This command installs the Kaggle API client library in your Python environment. 
 # The Kaggle API allows you to interact with the Kaggle platform from within your Python scripts, making it easier to download and upload datasets.
 
 from google.colab import drive
